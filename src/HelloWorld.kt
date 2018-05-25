@@ -137,4 +137,65 @@ fun main(args: Array<String>){
 //    for ((idx, value) in arr.withIndex()){
 //        println("$idx 번째 값은 $value 입니다.")
 //    }
+
+
+//    while문 예제1
+//    var i = 0
+//    while(i < 10){
+//        println(i)
+//        i++
+//    }
+
+
+
+//    do while문 예제1
+//    class NumberGenerator{
+//        val random = java.util.Random()
+//
+//        fun generateRandomNumber() : Int{
+//            return random.nextInt(100)
+//        }
+//    }
+//
+//    var gen = NumberGenerator()
+//
+//    do{
+//        val number = gen.generateRandomNumber()
+//        println(number)
+//    }while(number % 2 == 0)
+
+
+
+//    break문 예제
+//    var arr = arrayOf("A", "B", "C", "D", "E")
+//
+//    for (i in arr){
+//        println(i)
+//        if (i == "C"){
+//            break
+//        }
+//    }
+
+
+
+//    continue 예제
+//    var arr = arrayOf("A", "B", "C", "D", "E")
+//
+//    for (i in arr){
+//        if (i == "C"){
+//            continue
+//        }
+//        println(i)
+//    }
+
+
+//    label문 예제
+//    label@ for (i in 0..9){
+//        for (j in 0..9){
+//            println("$i / $j")
+//            if (i == 3 && j == 3){
+//                break@label
+//            }
+//        }
+//    }
 }
