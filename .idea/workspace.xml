@@ -18,20 +18,11 @@
       <file leaf-file-name="HelloWorld.kt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/HelloWorld.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
-              <caret line="199" column="7" selection-start-line="199" selection-start-column="7" selection-end-line="199" selection-end-column="7" />
+            <state relative-caret-position="143">
+              <caret line="348" column="29" selection-start-line="348" selection-start-column="29" selection-end-line="348" selection-end-column="29" />
               <folding>
-                <element signature="e#0#47#0" expanded="true" />
+                <element signature="e#0#139#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_Arrays.kt" pinned="false" current-in-tab="false">
-        <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/generated/_Arrays.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177897">
-              <caret line="9363" column="54" selection-start-line="9363" selection-start-column="54" selection-end-line="9363" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -84,10 +75,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;jar://C:/Users/judongseok/.IdeaIC2018.1/config/plugins/Kotlin/kotlinc/lib/kotlin-stdlib-sources.jar!/generated/_Arrays.kt" />
   </component>
   <component name="RecentsManager">
     <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
@@ -198,12 +192,12 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50040483" side_tool="true" weight="0.32888147" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49959514" visible="true" weight="0.3277592" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49959514" visible="true" weight="0.35953176" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32943144" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49878544" weight="0.32943144" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49731183" visible="true" weight="0.2145749" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49731183" visible="true" weight="0.21781376" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" sideWeight="0.50268817" side_tool="true" weight="0.21133603" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -224,10 +218,27 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/HelloWorld.kt">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3781">
+          <caret line="199" column="7" selection-start-line="199" selection-start-column="7" selection-end-line="199" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#139#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/generated/_Arrays.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177897">
+          <caret line="9363" column="54" selection-start-line="9363" selection-start-column="54" selection-end-line="9363" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HelloWorld.kt">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2356">
           <caret line="124" column="2" lean-forward="true" selection-start-line="124" selection-start-column="2" selection-end-line="124" selection-end-column="2" />
           <folding>
-            <element signature="e#0#47#0" expanded="true" />
+            <element signature="e#0#139#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -242,17 +253,17 @@
     <entry file="file://$PROJECT_DIR$/src/main.kt" />
     <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/generated/_Arrays.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177897">
+        <state relative-caret-position="19">
           <caret line="9363" column="54" selection-start-line="9363" selection-start-column="54" selection-end-line="9363" selection-end-column="54" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/HelloWorld.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="199" column="7" selection-start-line="199" selection-start-column="7" selection-end-line="199" selection-end-column="7" />
+        <state relative-caret-position="143">
+          <caret line="348" column="29" selection-start-line="348" selection-start-column="29" selection-end-line="348" selection-end-column="29" />
           <folding>
-            <element signature="e#0#47#0" expanded="true" />
+            <element signature="e#0#139#0" expanded="true" />
           </folding>
         </state>
       </provider>
