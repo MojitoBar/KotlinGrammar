@@ -355,4 +355,118 @@ fun main(args: Array<String>){
 //        println("단일 매개변수 it의 값 : $it")
 //        it.toString()
 //    }
+
+
+
+//    간단한 class 예제
+//    class Calc{
+//        fun sum(a:Int, b:Int):Int{
+//            return a + b
+//        }
+//    }
+//
+//    val calc = Calc()
+//    println(calc.sum(1, 5))
+
+
+
+//    생성자가 있는 class 생성
+//    class Backpack(brand:String, color:String){
+//        init{
+//            println("브랜드는 ${brand}이고 색상은 ${color}입니다.")
+//        }
+//    }
+//
+//    val myBackpack = Backpack("Incase", "Gray")
+
+
+
+
+//    class 보조 생성자 사용
+//    class Book{
+//        var title:String
+//        var author:String
+//
+//        constructor(title:String, author:String){
+//            this.title = title
+//            this.author = author
+//        }
+//    }
+//
+//    val book1 = Book("Kotlin", "Daniel")
+
+
+
+
+//    getter 와 setter 예제
+//    class Book(){
+//        var title:String
+//        get() {
+//            return title
+//        }
+//        set(value) {
+//            title = value
+//        }
+//
+//        var author:String?
+//        get() = author
+//        set(value) {
+//            author = value
+//        }
+//    }
+
+
+
+
+
+//    코틀린 싱글톤 예제 (싱글톤 클래스는 메인 밖에 있어야 한다.)
+//    object SingletonClass{
+//        val str = "Hello World"
+//
+//        fun sum(a:Int, b:Int):Int{
+//            return a + b
+//        }
+//    }
+//
+//    println(SingletonClass.str)
+//
+//    var number = SingletonClass.sum(5, 10)
+//    println(number)
+
+
+
+
+//    class compaion 예제 (객체는 항상 메인 밖에 생성)
+//    class CompanionTestClass{
+//        val str1 = "Hello!"
+//        var str3 = "Korea!"
+//
+//        fun sum(a:Int, b:Int):Int{
+//            return a + b
+//        }
+//
+//        companion object Companion{
+//            val str2 = "Hi!"
+//            var str3 = "USA!"
+//
+//            fun minus(a:Int, b:Int):Int{
+//                return a - b
+//            }
+//        }
+//    }
+//    println(CompanionTestClass.Companion.str2)
+//    println(CompanionTestClass.Companion.str3)
+//
+//    var obj = CompanionTestClass()
+//
+//    println(obj.str1)
+//    println(obj.sum(10, 5))
+//
+//    println(CompanionTestClass.str2)
+//    println(CompanionTestClass.str3)
+
+
+
+
+
 }
