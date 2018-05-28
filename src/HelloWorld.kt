@@ -464,9 +464,4 @@ fun main(args: Array<String>){
 //
 //    println(CompanionTestClass.str2)
 //    println(CompanionTestClass.str3)
-
-
-
-
-
 }
